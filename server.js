@@ -18,8 +18,8 @@ usedUnifiedTopology: true,
 useCreateIndex: true,
 useFindAndModify: false});
 
-require("./app/routes/apiRoutes.js")(app);
-require("./app/routes/htmlRoutes.js")(app);
+require("./app/routes/apiroutes.js")(app);
+require("./app/routes/htmlroutes.js")(app);
 
 //Uncomment to seed data to MongoDB
 //require('./seeders/seed');
