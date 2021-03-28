@@ -1,7 +1,7 @@
 # Fitness_Tracker
 ## Description
 
-This Project consists of a web application that will enable user to create and track daily workout with the ability to add exercices with needed information and offer a visual breakdown of user workout using robust dashboard.
+This Project consists of a web application that will enable user to create and track daily workout with the ability to add exercices with needed information and offer a visual breakdown of user workouts using robust dashboard.
 
 ## Table of Contents
 
@@ -49,7 +49,7 @@ node  Server.js
 - :octocat: Github: [ChristianKapita](https://github.com/ChristianKapita)
 
 
-### Technology used
+### Technologies used
 
 </br>
 <p align="center">
@@ -58,7 +58,7 @@ node  Server.js
     <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge" alt="Javascript" /></a>
     <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/-Bootstrap-blueviolet?style=for-the-badge" alt="Bootstrap" /></a>
     <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/-Node-orange?style=for-the-badge" alt="Node" /></a>
-    <a href="https://www.npmjs.com/package/inquirer"><img src="https://img.shields.io/badge/-Inquirer-blue?style=for-the-badge" alt="MongoDB" /></a>
+    <a href="https://www.npmjs.com/package/inquirer"><img src="https://img.shields.io/badge/-MongoDB-green?style=for-the-badge" alt="MongoDB" /></a>
     <a href="https://www.npmjs.com/package/jest"><img src="https://img.shields.io/badge/-Express.js-blue?style=for-the-badge" alt="Jest" /></a>
 </p>
 
