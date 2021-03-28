@@ -19,7 +19,7 @@ Steps to install application:
 3. Uncomment the required seed file to populate your MongoDB database and then comment it again.
 4. Type http://localhost:8080 in you browser.
 
-The app is live on <a href="https://fathomless-brushlands-57548.herokuapp.com/"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/></a>
+The app is live on <a href="https://aqueous-brushlands-78198.herokuapp.com/"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/></a>
 
 ```
 git clone git@github.com:ChristianKapita/Fitness_Tracker.git
@@ -59,7 +59,7 @@ node  Server.js
     <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/-Bootstrap-blueviolet?style=for-the-badge" alt="Bootstrap" /></a>
     <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/-Node-orange?style=for-the-badge" alt="Node" /></a>
     <a href="https://www.npmjs.com/package/inquirer"><img src="https://img.shields.io/badge/-MongoDB-green?style=for-the-badge" alt="MongoDB" /></a>
-    <a href="https://www.npmjs.com/package/jest"><img src="https://img.shields.io/badge/-Express.js-blue?style=for-the-badge" alt="Jest" /></a>
+    <a href="https://www.npmjs.com/package/jest"><img src="https://img.shields.io/badge/-Express-blue?style=for-the-badge" alt="Jest" /></a>
 </p>
 
 ## License
